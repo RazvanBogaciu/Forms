@@ -1,0 +1,43 @@
+body {
+	background-color: #3B3D3C;
+}
+
+#header{
+	width: 1000px;
+	margin: 0 auto;
+	font-size: 38px;
+	font-family: 'Rock Salt', cursive;
+	color: white;
+}
+#pagina{
+	width: 1000px;
+	height:480px;
+	margin: 0 auto;
+	background-color: white;
+	border: solid black 1px;
+}
+
+#pagina label{
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 20px;
+	display: inline-block;
+}
+#pagina input{
+	float:right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+#nav{
+	width: 1000px;
+	height: 50px;
+    background-color: #932713;
+    font-size: 30px;
+
+   
+}
+#nav a{
+	text-decoration: none;
+	color: white;
+	margin-left: 20px;
+}
